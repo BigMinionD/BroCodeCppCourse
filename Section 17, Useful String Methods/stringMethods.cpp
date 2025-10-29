@@ -1,5 +1,5 @@
 #include <iostream>
-// Needed for some functions, video does not specify this
+// Needed for getline function, video does not specify this
 #include <sstream>
 
 int main(){
