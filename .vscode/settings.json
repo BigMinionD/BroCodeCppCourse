@@ -50,6 +50,7 @@
         "xutility": "cpp",
         "vector": "cpp",
         "string": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "iomanip": "cpp"
     }
 }
